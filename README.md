@@ -23,9 +23,18 @@ Use the following code to install from GitHub.
 devtools::install_github("Zhibin-Xu/MigrationKaleidoscope")
 ```
 
+## Data Format 
+ 
+ <img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/DataFormat.png" width=100% height=100%>
+ 
+ - **The Hierarchies:** The hierarchies are named h1, h2 ... etc., note that the level to be labeled can be customized, such as **"Beijing 4.23"** serves both as the second level indicator and a label string. Meanwhile, the lowest level should end with **"-in"** and **"-out"**.
+ - **The color:** A numeric series starting from 1 and should be in accordance to the label level. The color column should be sorted in ascending order.
+ - **The value:** Values defining the cells' and labels' sizes.
+ - **The year:** Year for the time series.
+ 
 ## Usage
 The package requires 4 compulsory parameters:
-- **data_name:** the name of the csv file for data input, such as **"xx.csv"**. 
+- **data_name:** the name of the csv file for data input that has been described above, such as **"xx.csv"**. 
 - **label_level:** the level of the hierarchical data to be used for labeling, such as **2**.
 - **color_palette_original:** the hex color codes for representing different groups of data, should be of the same length as the labeled level, such as **c("#ee3437","#0081c1","#9d55a2","#0bae57")**.
 - **year:** the year selected to present the data, should be one of the **year** column elements.<br />
@@ -35,12 +44,20 @@ as well as 3 optional parameters:
 - **title:** the title for the stacked barplots, should be in quotes.
 - **subtitle:** the subtitle for the stacked barplots, should also be in quotes.
  
-## Data Format 
- 
- <img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/DataFormat.png" width=100% height=100%>
- 
- - **The Hierarchies:** The hierarchies are named h1, h2 ... etc., note that the level to be labeled can be customized, such as **"Beijing 4.23"** serves both as the second level indicator and a label string. Meanwhile, the lowest level should end with **"-in"** and **"-out"**
- 
+ After all parameters are determined, run the following codes
+
+```bash
+library(MigrationKaleidoscope)
+MigrationKaleidoscope(data_name = "MigrationChina.csv",
+                      label_level = 2,
+                      color_palette_original = c("#ee3437","#0081c1",
+                                                 "#9d55a2","#0bae57"),
+                      year = "2010-2015",seed = 114,
+                      title = "China's Internal Migration (Million)",
+                      subtitle = "source: National Population Census of the People's Republic of China"
+)
+```
+
 ## Citation
 Please cite in this form (APA for example):
 
