@@ -2,11 +2,11 @@
 
 In migration networks, the **origin-destination (OD)** bilateral flows and each site’s **in- and outflow volumes** are like two sides of the same coin; though popular visualisation approaches such as the chord diagram excel in describing the former, the latter mostly remains less depicted aspect. <br />
 
-By applying the Voronoi-based migration **Kaleidoscope diagram** and integrating it with the **sunburst treemap**, the function visualises migration from different time periods and focalises on the relative status of each migration body as origin or destination. <br />
+By applying the Voronoi-based migration **Kaleidoscope diagram** and integrating it with the **sunburst treemap** [(Jahn et al., 2021)](https://github.com/m-jahn/WeightedTreemaps), the function visualises migration from different time periods and focalises on the relative status of each migration body as origin or destination. <br />
 
 By attributing different colours to groups and differentiating in- and outflows with *deep and light shades*, information about each body’s weight in the migration network is gained from their size in the diagrams, and variable as well as invariable patterns are observed from the trends. 
 
-## Literature
+## Introduction
 >  [Gu and Xu (2022)](https://doi.org/10.1177/23998083221082916) present a diachronic visualisation of China’s internal migration patterns at the country, region and province level simultaneously. They achieve this through an innovative repurposing and expansion of the Voronoi-based Kaleidoscope diagram developed by the [German Federal Statistical Office (2022)](https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/price-kaleidoscope-overview.html) for monitoring price trends of goods and services ... The three short articles published as “Featured graphics” in this issue provide excellent examples of what we are looking for in future submissions.<br />
 >  
 >  ——***Environment and Planning B: Urban Analytics and City Science*** Editorial, [First Published April 19, 2022](https://doi.org/10.1177/23998083221096895)
