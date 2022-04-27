@@ -39,7 +39,7 @@ as well as 3 optional parameters:
  
  <img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/DataFormat.png" width=100% height=100%>
  
- - **The Hierarchies:** 
+ - **The Hierarchies:** The hierarchies are named h1, h2 ... etc., note that the level to be labeled can be customized, such as **"Beijing 4.23"** serves both as the second level indicator and a label string. Meanwhile, the lowest level should end with **"-in"** and **"-out"**
  
 ## Citation
 Please cite in this form (APA for example):
