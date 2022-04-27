@@ -28,7 +28,7 @@ devtools::install_github("Zhibin-Xu/MigrationKaleidoscope")
  <img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/DataFormat.png" width=100% height=100%>
  
  - **The Hierarchies:** The hierarchies are named h1, h2 ... etc., note that the level to be labeled can be customized, such as **"Beijing 4.23"** serves both as the second level indicator and a label string. Meanwhile, the lowest level should end with **"-in"** and **"-out"**.
- - **The color:** A numeric series starting from 1 and should be in accordance to the label level. The color column should be sorted in ascending order.
+ - **The color:** A numeric series starting from 1 and should be in accordance with the label level. The color column should be sorted in ascending order.
  - **The value:** Values defining the cells' and labels' sizes.
  - **The year:** Year for the time series.
  
