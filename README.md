@@ -35,10 +35,16 @@ as well as 3 optional parameters:
 - **title:** the title for the stacked barplots, should be in quotes.
 - **subtitle:** the subtitle for the stacked barplots, should also be in quotes.
  
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Data Format 
+ 
+ <img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/DataFormat.png" width=50% height=50%>
+ 
+ - **The Hierarchies:** 
+ 
+## Citation
+Please cite in this form (APA for example):
 
-Please make sure to update tests as appropriate.
+> Gu, H., & Xu, Z. (2022). Kaleidoscope visualisation of China’s internal migration, 1985–2020. *Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083221082916
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
