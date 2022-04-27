@@ -6,6 +6,10 @@ By applying the Voronoi-based migration **Kaleidoscope diagram** and integrating
 
 By attributing different colours to groups and differentiating in- and outflows with *deep and light shades*, information about each body’s weight in the migration network is gained from their size in the diagrams, and variable as well as invariable patterns are observed from the trends. 
 
+<img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=50% height=50%>
+
+<img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/StackedBarplot.png" width=50% height=50%>
+
 ## Introduction
 >  [Gu and Xu (2022)](https://doi.org/10.1177/23998083221082916) present a diachronic visualisation of China’s internal migration patterns at the country, region and province level simultaneously. They achieve this through an innovative repurposing and expansion of the Voronoi-based Kaleidoscope diagram developed by the [German Federal Statistical Office (2022)](https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/price-kaleidoscope-overview.html) for monitoring price trends of goods and services ... The three short articles published as “Featured graphics” in this issue provide excellent examples of what we are looking for in future submissions.<br />
 >  
@@ -13,7 +17,7 @@ By attributing different colours to groups and differentiating in- and outflows 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the following code to install from GitHub.
 
 ```bash
 devtools::install_github("Zhibin-Xu/MigrationKaleidoscope")
