@@ -16,8 +16,7 @@ By attributing different colours to groups and differentiating in- and outflows 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-library(devtools)
-install_github("Zhibin-Xu/MigrationKaleidoscope")
+devtools::install_github("Zhibin-Xu/MigrationKaleidoscope")
 ```
 
 ## Usage
