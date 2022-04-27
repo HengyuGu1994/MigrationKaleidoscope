@@ -37,7 +37,7 @@ as well as 3 optional parameters:
  
 ## Data Format 
  
- <img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/DataFormat.png" width=50% height=50%>
+ <img src="https://github.com/Zhibin-Xu/MigrationKaleidoscope/blob/main/DataFormat.png" width=100% height=100%>
  
  - **The Hierarchies:** 
  
