@@ -4,6 +4,7 @@ MigrationKaleidoscope <- function(data_name, label_level,
                                   year,seed=NULL,
                                   title=NULL,subtitle=NULL) {
 
+  devtools::install_github("m-jahn/WeightedTreemaps")
   library(WeightedTreemaps)
   library(circlize)
   library(dplyr)
