@@ -44,7 +44,7 @@ as well as 3 optional parameters:
 - **title:** the title for the stacked barplots, should be in quotes.
 - **subtitle:** the subtitle for the stacked barplots, should also be in quotes.
  
- After all parameters are determined, run the following codes
+ After all parameters are determined, run the following codes with sample data:
 
 ```bash
 library(MigrationKaleidoscope)
@@ -63,5 +63,5 @@ Please cite in this form (APA for example):
 
 > Gu, H., & Xu, Z. (2022). Kaleidoscope visualisation of China’s internal migration, 1985–2020. *Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083221082916
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Acknowledgements
+This package relies greatly on the seminal work of [Michael Jahn, David Leslie and Ahmadou Dicko (2021)] (https://github.com/m-jahn/WeightedTreemaps) which makes possible the creation of voronoi and sunburst treemaps. Based on their original version of treemaps, this package integrated voronoi and sunburst diagrams as well as attached circular labels to better illustrate the values of each component. We would like to extend our genuine gratitude to their generous contribution and devotion.
