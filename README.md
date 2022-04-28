@@ -11,6 +11,7 @@ By attributing different colours to groups and differentiating in- and outflows 
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplot.png" width=50% height=50%>
 
 ## Introduction
+
 >  [Gu and Xu (2022)](https://doi.org/10.1177/23998083221082916) present a diachronic visualisation of China’s internal migration patterns at the country, region and province level simultaneously. They achieve this through an innovative repurposing and expansion of the Voronoi-based Kaleidoscope diagram developed by the [German Federal Statistical Office (2022)](https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/price-kaleidoscope-overview.html) for monitoring price trends of goods and services ... The three short articles published as “Featured graphics” in this issue provide excellent examples of what we are looking for in future submissions.<br />
 >  
 >  ——***Environment and Planning B: Urban Analytics and City Science*** Editorial, [First Published April 19, 2022](https://doi.org/10.1177/23998083221096895)
@@ -46,6 +47,7 @@ devtools::install_github("HengyuGu1994/MigrationKaleidoscope")
  - **The year:** Year for the time series.
  
 ## Usage
+
 The package requires 4 compulsory parameters:
 - **data_name:** the name of the csv file for data input that has been described above, such as **"xx.csv"**. 
 - **label_level:** the level of the hierarchical data to be used for labeling, such as **2**.
@@ -72,9 +74,11 @@ MigrationKaleidoscope(data_name = "MigrationChina.csv",
 ```
 
 ## Citation
+
 Please cite using this form (APA for example):
 
 > Gu, H., & Xu, Z. (2022). Kaleidoscope visualisation of China’s internal migration, 1985–2020. *Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083221082916
 
 ## Acknowledgements
+
 This package relies greatly on the seminal work of [Michael Jahn, David Leslie and Ahmadou Dicko (2021)](https://github.com/m-jahn/WeightedTreemaps) which makes possible the creation of voronoi and sunburst treemaps. Based on their original version of treemaps, this package integrated voronoi and sunburst diagrams as well as attached circular labels to better illustrate the values of each component. We would like to extend our genuine gratitude to their generous contribution and devotion.
