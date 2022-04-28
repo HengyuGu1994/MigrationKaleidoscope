@@ -59,7 +59,7 @@ MigrationKaleidoscope(data_name = "MigrationChina.csv",
 ```
 
 ## Citation
-Please cite in this form (APA for example):
+Please cite using this form (APA for example):
 
 > Gu, H., & Xu, Z. (2022). Kaleidoscope visualisation of China’s internal migration, 1985–2020. *Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083221082916
 
