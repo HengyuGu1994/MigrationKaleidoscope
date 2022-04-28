@@ -20,7 +20,7 @@ By attributing different colours to groups and differentiating in- and outflows 
 
 Use the following code to install from GitHub.
 
-```bash
+```R
 devtools::install_github("HengyuGu1994/MigrationKaleidoscope")
 ```
 
@@ -61,7 +61,7 @@ as well as 3 optional parameters:
  
  After all parameters are determined, run the following codes with sample data:
 
-```bash
+```R
 library(MigrationKaleidoscope)
 MigrationKaleidoscope(data_name = "MigrationChina.csv",
                       label_level = 2,
