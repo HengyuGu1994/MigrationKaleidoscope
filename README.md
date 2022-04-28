@@ -41,7 +41,7 @@ devtools::install_github("HengyuGu1994/MigrationKaleidoscope")
 | East | Jiangsu 6.78    | Jiangsu-out   | 2     | 1.893540001 | 2005-2010 |
 ...
  
- - **The Hierarchies:** The hierarchies are named h1, h2 ... etc., note that the level to be labeled can be customized, such as **"Beijing 4.23"** serves both as the second level indicator and a label string. Meanwhile, the lowest level should end with **"-in"** and **"-out"**.
+ - **The hierarchies:** The hierarchies are named h1, h2 ... etc., note that the level to be labeled can be customized, such as **"Beijing 4.23"** serves both as the second level indicator and a label string. Meanwhile, the lowest level should end with **"-in"** and **"-out"**.
  - **The color:** A numeric series starting from 1 and should be in accordance with the label level. The color column should be sorted in ascending order.
  - **The value:** Values defining the cells' and labels' sizes.
  - **The year:** Year for the time series.
