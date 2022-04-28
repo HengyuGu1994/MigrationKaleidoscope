@@ -56,8 +56,8 @@ The package requires 4 compulsory parameters:
 
 as well as 3 optional parameters:
 - **seed:** the seed to initiate the Kaleidoscope diagram, for different seeds give rise to different or even zero patterns, depending on the convergence of the state.
-- **title:** the title for the stacked barplots, should be in quotes such as `xx`.
-- **subtitle:** the subtitle for the stacked barplots, should also be in quotes such as `xx`. 
+- **title:** the title for the stacked barplots, should be in quotes such as `"xx"`.
+- **subtitle:** the subtitle for the stacked barplots, should also be in quotes such as `"xx"`. 
  
  After all parameters are determined, run the following codes with sample data:
 
