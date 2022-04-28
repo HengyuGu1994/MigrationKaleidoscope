@@ -52,7 +52,7 @@ The package requires 4 compulsory parameters:
 - **data_name:** the name of the csv file for data input that has been described above, such as `"xx.csv"`. 
 - **label_level:** the level of the hierarchical data to be used for labeling, such as `2`.
 - **color_palette_original:** the hex color codes for representing different groups of data, should be of the same length as the labeled level, such as `c("#ee3437","#0081c1","#9d55a2","#0bae57")`.
-- **year:** the year selected to present the data, should be one of the `year` column elements.<br />
+- **year:** the year selected to present the data, should be one of the `year` column elements such as `"2010-2015"`.<br />
 
 as well as 3 optional parameters:
 - **seed:** the seed to initiate the Kaleidoscope diagram, for different seeds give rise to different or even zero patterns, depending on the convergence of the state.
