@@ -1,5 +1,22 @@
-# MigrationKaleidoscope
+<h1 align="center">MigrationKaleidoscope</h1>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/multi-hierarchical-red">
+
+<img src="https://img.shields.io/badge/multi-regional-blue">
+
+<img src="https://img.shields.io/badge/multi-periodical-green">
+
+</p>
+
+_The MigrationKaleidoscope package aims to generate voronoi- and sunburst-based kaleidoscope diagrams to represent **multihierarchical**, **multiregional** and **multiperiodical** migration data._
+
+---
+
+ 
+## Introduction
+ 
 In migration networks, the **origin-destination (OD)** bilateral flows and each site’s **in- and outflow volumes** are like two sides of the same coin; though popular visualisation approaches such as the chord diagram excel in describing the former, the latter mostly remains less depicted aspect. <br />
 
 By applying the Voronoi-based migration **Kaleidoscope diagram** and integrating it with the **sunburst treemap** [(Jahn et al., 2021)](https://github.com/m-jahn/WeightedTreemaps), the function visualises migration from different time periods and focalises on the relative status of each migration body as origin or destination. <br />
@@ -10,7 +27,7 @@ By attributing different colours to groups and differentiating **in-** and **out
 
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplot.png" width=50% height=50%>
 
-## Introduction
+## Comments
 
 >  [Gu and Xu (2022)](https://doi.org/10.1177/23998083221082916) present a diachronic visualisation of China’s internal migration patterns at the country, region and province level simultaneously. They achieve this through an innovative repurposing and expansion of the Voronoi-based Kaleidoscope diagram developed by the [German Federal Statistical Office (2022)](https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/price-kaleidoscope-overview.html) for monitoring price trends of goods and services ... The three short articles published as “Featured graphics” in this issue provide excellent examples of what we are looking for in future submissions.<br />
 >  
