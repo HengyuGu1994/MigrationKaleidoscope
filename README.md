@@ -1,6 +1,6 @@
 <h1>MigrationKaleidoscope</h1>
 
-Hengyu Gu, The Chinese University of Hong Kong, Hong Kong <br />
+Hengyu Gu, The Chinese University of Hong Kong <br />
 Zhibin Xu, Macau University of Science and Technology
 
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeChina.png" width=30% height=30% align="right" />
@@ -43,12 +43,14 @@ Note that the migration concept is also applicable to imports and exports in int
 <p align="center">Deep color for in-migration (imports), light color for out-migration (exports)<br />
 
 ## Comments<br />
-
-[Gu and Xu (2022)](https://doi.org/10.1177/23998083221082916) present a diachronic visualisation of China’s internal migration patterns at the country, region and province level simultaneously. They achieve this through an innovative repurposing and expansion of the Voronoi-based Kaleidoscope diagram developed by the [German Federal Statistical Office (2022)](https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/price-kaleidoscope-overview.html) for monitoring price trends of goods and services ... The three short articles published as “Featured graphics” in this issue provide excellent examples of what we are looking for in future submissions.
  
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/Environment and Planning B_cover.png" width=20% height=20% align="right" />
 
 <p>
+ 
+[Gu and Xu (2022)](https://doi.org/10.1177/23998083221082916) present a diachronic visualisation of China’s internal migration patterns at the country, region and province level simultaneously. They achieve this through an innovative repurposing and expansion of the Voronoi-based Kaleidoscope diagram developed by the [German Federal Statistical Office (2022)](https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/price-kaleidoscope-overview.html) for monitoring price trends of goods and services ... The three short articles published as “Featured graphics” in this issue provide excellent examples of what we are looking for in future submissions.
+
+---
  
 Environment and Planning B: Urban Analytics and City Science Editorial, [First Published April 19, 2022](https://doi.org/10.1177/23998083221096895)
 
