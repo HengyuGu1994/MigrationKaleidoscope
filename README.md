@@ -52,7 +52,7 @@ Note that the migration concept is also applicable to imports and exports in int
 
 ---
 
-Environment and Planning B: Urban Analytics and City Science Editorial, [First Published April 19, 2022](https://doi.org/10.1177/23998083221096895)
+——Environment and Planning B: Urban Analytics and City Science Editorial, [First Published April 19, 2022](https://doi.org/10.1177/23998083221096895)
 
 </p> 
 
