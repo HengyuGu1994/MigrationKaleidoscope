@@ -34,7 +34,7 @@ By attributing different colours to groups and differentiating **in-** and **out
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeChina.png" width=45% height=45% />
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotChina.png" width=45% height=45% /> 
 </p>
-<p align="center">Deep color for in-migration, light color for out-migration <br />
+<p align="center"><i>Deep color for in-migration, light color for out-migration </i><br />
 
 Note that the migration concept is also applicable to imports and exports in international trade. <br />
  
@@ -42,13 +42,13 @@ Note that the migration concept is also applicable to imports and exports in int
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeWorldBank.png" width=45% height=45% />
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotWorldBank.png" width=45% height=45% /> 
 </p>
-<p align="center">Deep color for in-migration (imports), light color for out-migration (exports)<br />
+<p align="center"><i>Deep color for in-migration (imports), light color for out-migration (exports)</i><br />
 
 <p float="left">
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeUIS.png" width=45% height=45% />
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotUIS.png" width=45% height=45% /> 
 </p>
-<p align="center">Deep color for male inbound international students, light color for female inbound international students<br />
+<p align="center"><i>Deep color for male inbound international students, light color for female inbound international students</i><br />
 
 See also the chord diagram visualization of International Student Mobility by [Gu and Xu (2022)](https://doi.org/10.1177/0308518X211055180) on <i>Environment and Planning A: Economy and Space</i>, First Published October 30, 2021. 
  
