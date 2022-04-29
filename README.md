@@ -9,11 +9,13 @@ Macau University of Science and Technology
 
 <p>
 
-<img src="https://img.shields.io/badge/multi-hierarchical-red">
+<img src="https://img.shields.io/badge/multi-hierarchical-ee3437">
 
-<img src="https://img.shields.io/badge/multi-regional-blue">
+<img src="https://img.shields.io/badge/multi-regional-0081c1">
 
-<img src="https://img.shields.io/badge/multi-periodical-green">
+<img src="https://img.shields.io/badge/multi-periodical-9d55a2">
+ 
+<img src="https://img.shields.io/badge/migration-data-0bae57">
 
 </p>
 
