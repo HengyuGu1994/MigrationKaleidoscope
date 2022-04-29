@@ -44,6 +44,12 @@ Note that the migration concept is also applicable to imports and exports in int
 </p>
 <p align="center">Deep color for in-migration (imports), light color for out-migration (exports)<br />
 
+<p float="left">
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeUIS.png" width=45% height=45% />
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotUIS.png" width=45% height=45% /> 
+</p>
+<p align="center">Deep color for male inbound international students, light color for female inbound international students<br />
+ 
 ## Comments<br />
  
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/Environment and Planning B_cover.png" width=20% height=20% align="right" />
@@ -127,12 +133,26 @@ MigrationKaleidoscope(data_name = "MigrationWorldBank.csv",
                       )
 ```
 
-## Citation
+and data sample 3:
+
+```R
+MigrationKaleidoscope(data_name = "MigrationUIS.csv",
+                      label_level = 2,
+                      color_palette_original = c("#e580bd","#8397c5",
+                                                 "#fc8357","#5bbc9c",
+                                                 "#9dd349"),
+                      year = "2019",
+                      title = "Inbound internationally mobile students by gender",
+                      subtitle = "source: The UNESCO Institute for Statistics (UIS)"
+                      )
+```<br />
+
+## Citation<br />
 
 Please cite using this form (APA for example):
 
 > Gu, H., & Xu, Z. (2022). Kaleidoscope visualisation of China’s internal migration, 1985–2020. *Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083221082916
 
-## Acknowledgements
+## Acknowledgements<br />
 
 This package relies greatly on the seminal work of [Michael Jahn, David Leslie and Ahmadou Dicko (2021)](https://github.com/m-jahn/WeightedTreemaps) which makes possible the creation of voronoi and sunburst treemaps. Based on their original version of treemaps, this package integrated voronoi and sunburst diagrams as well as attached circular labels to better illustrate the values of each component. We would like to extend our genuine gratitude to their generous contribution and devotion.
