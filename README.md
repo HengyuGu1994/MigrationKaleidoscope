@@ -1,7 +1,7 @@
 <h1>MigrationKaleidoscope</h1>
 
 
-<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=20% height=20% align="right" />
+<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=30% height=30% align="right" />
 
 <p>
 
