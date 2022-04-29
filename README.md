@@ -54,6 +54,7 @@ See also the chord diagram visualization of International Student Mobility by [G
  
 <p float="center">
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/ism2014-2018.png" width=75% height=75% />
+ <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/Environment and Planning A_cover.png" width=20% height=20% align="right" />
 </p> 
  
 ## Comments<br />
