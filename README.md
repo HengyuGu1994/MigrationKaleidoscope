@@ -45,8 +45,8 @@ Note that the migration concept is also applicable to imports and exports in int
 <p align="center">Deep color for in-migration (imports), light color for out-migration (exports)<br />
 
 <p float="left">
-  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeUIS.png" width=45% height=45% />
-  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotUIS.png" width=45% height=45% /> 
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/.png" width=45% height=45% />
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/.png" width=45% height=45% /> 
 </p>
 <p align="center">Deep color for male inbound international students, light color for female inbound international students<br />
 
