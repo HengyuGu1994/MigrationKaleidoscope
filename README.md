@@ -3,7 +3,7 @@
 Hengyu Gu, The Chinese University of Hong Kong, Hong Kong <br />
 Zhibin Xu, Macau University of Science and Technology
 
-<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=30% height=30% align="right" />
+<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeChina.png" width=30% height=30% align="right" />
 
 <p>
 
@@ -29,8 +29,12 @@ By applying the Voronoi-based migration **Kaleidoscope diagram** and integrating
 By attributing different colours to groups and differentiating **in-** and **outflows** with **deep** and **light** shades, information about each body’s weight in the migration network is gained from their size in the diagrams, and variable as well as invariable patterns are observed from the trends. <br />
 
 <p float="left">
-  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=45% height=45% />
-  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplot.png" width=45% height=45% /> 
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeChina.png" width=45% height=45% />
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotChina.png" width=45% height=45% /> 
+</p>
+<p float="left">
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeWorldBank.png" width=45% height=45% />
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotWorldBank.png" width=45% height=45% /> 
 </p>
 <p align="center">Deep color for in-migration, light color for out-migration <br />
 
