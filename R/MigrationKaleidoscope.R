@@ -66,6 +66,8 @@ MigrationKaleidoscope <- function(data_name, label_level,
                             extra = "warn",
                             fill = "warn")
   data_sunburst = data_sunburst %>% filter (data_sunburst$x > 0)
+  data_sunburst$color <- as.numeric(data_sunburst$color)
+  data_sunburst$color <- sprintf("%010d", data_sunburst$color)
 
   # Define year
   i = year
