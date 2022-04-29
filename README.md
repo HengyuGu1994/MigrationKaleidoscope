@@ -99,7 +99,7 @@ as well as 3 optional parameters:
 - **title:** the title for the stacked barplots, should be in quotes such as `"xx"`.
 - **subtitle:** the subtitle for the stacked barplots, should also be in quotes such as `"xx"`. 
  
- After all parameters are determined, run the following codes with sample data:
+ After all parameters are determined, run the following codes with sample data 1:
 
 ```R
 library(MigrationKaleidoscope)
@@ -112,6 +112,8 @@ MigrationKaleidoscope(data_name = "MigrationChina.csv",
                       subtitle = "source: National Population Census of the People's Republic of China"
 )
 ```
+
+as well as data sample 2:
 
 ```R
 MigrationKaleidoscope(data_name = "MigrationWorldBank.csv",
