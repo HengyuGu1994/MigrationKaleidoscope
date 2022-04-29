@@ -25,12 +25,13 @@ In migration networks, the **origin-destination (OD)** bilateral flows and each 
 
 By applying the Voronoi-based migration **Kaleidoscope diagram** and integrating it with the **sunburst treemap** [(Jahn et al., 2021)](https://github.com/m-jahn/WeightedTreemaps), the function visualises migration from different time periods and focalises on the relative status of each migration body as origin or destination. <br />
 
-By attributing different colours to groups and differentiating **in-** and **outflows** with **deep** and **light** shades, information about each body’s weight in the migration network is gained from their size in the diagrams, and variable as well as invariable patterns are observed from the trends. 
+By attributing different colours to groups and differentiating **in-** and **outflows** with **deep** and **light** shades, information about each body’s weight in the migration network is gained from their size in the diagrams, and variable as well as invariable patterns are observed from the trends. <br />
 
 <p float="left">
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=45% height=45% />
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplot.png" width=45% height=45% /> 
 </p>
+<p align="center">Deep color for in-migration, light color for out-migration <br />
 
 ## Comments
 
