@@ -18,7 +18,7 @@ MigrationKaleidoscope <- function(data_name, label_level,
   library(stringr)
   library(colorspace)
   suppressPackageStartupMessages(library(circlize))
-  options(warn=-1)
+  options(warn=-1, scipen=999)
 
   # Treat data set
   data = read.csv(data_name)
