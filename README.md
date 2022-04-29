@@ -1,6 +1,9 @@
-<h1 align="center">MigrationKaleidoscope</h1>
+<h1>MigrationKaleidoscope</h1>
 
-<p align="center">
+
+<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=20% height=20% align="right" />
+
+<p>
 
 <img src="https://img.shields.io/badge/multi-hierarchical-red">
 
@@ -10,9 +13,10 @@
 
 </p>
 
-_The MigrationKaleidoscope package aims to generate voronoi- and sunburst-based kaleidoscope diagrams to represent **multihierarchical**, **multiregional** and **multiperiodical** migration data._
 
----
+------------------------------------------------------------------------
+
+_The MigrationKaleidoscope package aims to generate voronoi- and sunburst-based kaleidoscope diagrams to represent **multihierarchical**, **multiregional** and **multiperiodical** migration data._
 
  
 ## Introduction
