@@ -1,11 +1,11 @@
 <h1>MigrationKaleidoscope</h1>
 
-<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeChina.png" width=30% height=30% align="right" />
-
 * Hengyu Gu ([Google Scholar](https://scholar.google.com/citations?user=eqYzq68AAAAJ&hl=ja&oi=sra), [ResearchGate](https://www.researchgate.net/profile/Hengyu-Gu)) <br />
 The Chinese University of Hong Kong <br />
 * Zhibin Xu ([Google Scholar](https://scholar.google.com/citations?user=rRsBXUAAAAAJ&hl=ja&oi=sra), [ResearchGate](https://www.researchgate.net/profile/Zhibin-Xu-7)) <br />
 Macau University of Science and Technology
+
+<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeChina.png" width=30% height=30% align="right" />
 
 <p>
 
