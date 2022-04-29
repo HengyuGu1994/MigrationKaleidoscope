@@ -145,7 +145,7 @@ MigrationKaleidoscope(data_name = "MigrationUIS.csv",
                       title = "Inbound internationally mobile students by gender",
                       subtitle = "source: The UNESCO Institute for Statistics (UIS)"
                       )
-```<br />
+```
 
 ## Citation
 
