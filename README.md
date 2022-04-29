@@ -1,5 +1,7 @@
 <h1>MigrationKaleidoscope</h1>
 
+Hengyu Gu, The Chinese University of Hong Kong, Hong Kong
+Zhibin Xu, Macau University of Science and Technology
 
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=30% height=30% align="right" />
 
@@ -16,9 +18,8 @@
 
 ------------------------------------------------------------------------
 
-_The MigrationKaleidoscope package aims to generate voronoi- and sunburst-based kaleidoscope diagrams to represent **multihierarchical**, **multiregional** and **multiperiodical** migration data._
+_The MigrationKaleidoscope package aims to generate voronoi- and sunburst-based kaleidoscope diagrams to represent **multihierarchical**, **multiregional** and **multiperiodical** migration data._ <br />
 
- 
 ## Introduction
  
 In migration networks, the **origin-destination (OD)** bilateral flows and each site’s **in- and outflow volumes** are like two sides of the same coin; though popular visualisation approaches such as the chord diagram excel in describing the former, the latter mostly remains less depicted aspect. <br />
