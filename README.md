@@ -27,9 +27,10 @@ By applying the Voronoi-based migration **Kaleidoscope diagram** and integrating
 
 By attributing different colours to groups and differentiating **in-** and **outflows** with **deep** and **light** shades, information about each body’s weight in the migration network is gained from their size in the diagrams, and variable as well as invariable patterns are observed from the trends. 
 
-<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=50% height=50%>
-
-<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplot.png" width=50% height=50%>
+<p float="left">
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=45% height=45% />
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplot.png" width=45% height=45% /> 
+</p>
 
 ## Comments
 
