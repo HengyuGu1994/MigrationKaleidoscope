@@ -144,13 +144,13 @@ and data sample 3:
 ```R
 MigrationKaleidoscope(data_name = "MigrationUIS.csv",
                       label_level = 2,
-                      color_palette_original = c("#e580bd","#8397c5",
-                                                 "#fc8357","#5bbc9c",
-                                                 "#9dd349"),
+                      color_palette_original = c("#cf294a","#eb7d3d",
+                                                 "#0c63bf","#3eb863",
+                                                 "#49c0b6"),
                       year = "2019",
                       title = "Inbound internationally mobile students by gender",
                       subtitle = "source: The UNESCO Institute for Statistics (UIS)"
-                      )
+)
 ```
 
 ## Citation
