@@ -50,9 +50,9 @@ Note that the migration concept is also applicable to imports and exports in int
 </p>
 <p align="center">Deep color for male inbound international students, light color for female inbound international students<br />
 
-<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/ism2014-2018.png" width=20% height=20% align="right" />
+<img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/ism2014-2018.png" width=30% height=30% align="right" />
  
-> See also the chord diagram visualization of International Student Mobility by [Gu and Xu (2022)](https://doi.org/10.1177/0308518X211055180).
+> See also the chord diagram visualization of International Student Mobility by [Gu and Xu (2022)](https://doi.org/10.1177/0308518X211055180) on Environment and Planning A: Economy and Space, First Published October 30, 2021. 
  
 ## Comments<br />
  
