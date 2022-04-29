@@ -1,6 +1,6 @@
 <h1>MigrationKaleidoscope</h1>
 
-Hengyu Gu, The Chinese University of Hong Kong, Hong Kong
+Hengyu Gu, The Chinese University of Hong Kong, Hong Kong <br />
 Zhibin Xu, Macau University of Science and Technology
 
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscope.png" width=30% height=30% align="right" />
