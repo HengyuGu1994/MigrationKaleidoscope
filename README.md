@@ -1,7 +1,9 @@
 <h1>MigrationKaleidoscope</h1>
 
-Hengyu Gu, The Chinese University of Hong Kong <br />
-Zhibin Xu, Macau University of Science and Technology
+Hengyu Gu <br />
+The Chinese University of Hong Kong <br />
+Zhibin Xu <br />
+Macau University of Science and Technology
 
 <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeChina.png" width=30% height=30% align="right" />
 
@@ -109,6 +111,18 @@ MigrationKaleidoscope(data_name = "MigrationChina.csv",
                       title = "China's Internal Migration (Million)",
                       subtitle = "source: National Population Census of the People's Republic of China"
 )
+```
+
+```R
+MigrationKaleidoscope(data_name = "MigrationWorldBank.csv",
+                      label_level = 2,
+                      color_palette_original = c("#ff1b6b","#2e95a0",
+                                                 "#0077c7","#44b77c",
+                                                 "#f1c432"),
+                      year = "2019",
+                      title = "Imports and Exports of goods, services and primary income\n(BoP, current million US$)",
+                      subtitle = "source: World Bank"
+                      )
 ```
 
 ## Citation
