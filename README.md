@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/trade-data-2e95a0">
  
 <img src="https://img.shields.io/badge/demographic-data-f1c432">
-
+ 
 </p>
 
 
@@ -118,7 +118,13 @@ as well as 3 optional parameters:
 - **title:** the title for the stacked barplots, should be in quotes such as `"xx"`.
 - **subtitle:** the subtitle for the stacked barplots, should also be in quotes such as `"xx"`. 
  
- After all parameters are determined, run the following codes with sample data 1:
+ After all parameters are determined, run the following codes with sample data 1 
+ (
+ palette: <img src="https://img.shields.io/badge/ --ee3437">
+ <img src="https://img.shields.io/badge/ --0081c1">
+ <img src="https://img.shields.io/badge/ --9d55a2">
+ <img src="https://img.shields.io/badge/ --0bae57">
+ ):
 
 ```R
 library(MigrationKaleidoscope)
@@ -132,7 +138,14 @@ MigrationKaleidoscope(data_name = "MigrationChina.csv",
 )
 ```
 
-as well as data sample 2:
+as well as data sample 2
+(
+ palette: <img src="https://img.shields.io/badge/ --ff1b6b">
+ <img src="https://img.shields.io/badge/ --2e95a0">
+ <img src="https://img.shields.io/badge/ --0077c7">
+ <img src="https://img.shields.io/badge/ --44b77c">
+ <img src="https://img.shields.io/badge/ --f1c432">
+ ):
 
 ```R
 MigrationKaleidoscope(data_name = "MigrationWorldBank.csv",
@@ -146,7 +159,14 @@ MigrationKaleidoscope(data_name = "MigrationWorldBank.csv",
                       )
 ```
 
-and data sample 3:
+and data sample 3
+(
+ palette: <img src="https://img.shields.io/badge/ --cf294a">
+ <img src="https://img.shields.io/badge/ --eb7d3d">
+ <img src="https://img.shields.io/badge/ --0c63bf">
+ <img src="https://img.shields.io/badge/ --3eb863">
+ <img src="https://img.shields.io/badge/ --49c0b6">
+ ):
 
 ```R
 MigrationKaleidoscope(data_name = "MigrationUIS.csv",
