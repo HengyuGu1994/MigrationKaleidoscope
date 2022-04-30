@@ -65,7 +65,7 @@ See also the chord diagram visualization of International Student Mobility by [G
  
 > [Gu and Xu (2022)](https://doi.org/10.1177/23998083221082916) present a diachronic visualisation of China’s internal migration patterns at the country, region and province level simultaneously. They achieve this through an innovative repurposing and expansion of the Voronoi-based Kaleidoscope diagram developed by the [German Federal Statistical Office (2022)](https://www.destatis.de/EN/Themes/Economy/Prices/Consumer-Price-Index/price-kaleidoscope-overview.html) for monitoring price trends of goods and services ... The three short articles published as “Featured graphics” in this issue provide excellent examples of what we are looking for in future submissions. <br />
 
-——Environment and Planning B: Urban Analytics and City Science Editorial, [First Published April 19, 2022](https://doi.org/10.1177/23998083221096895)<br />
+——<i> Environment and Planning B: Urban Analytics and City Science</i> Editorial, [First Published April 19, 2022](https://doi.org/10.1177/23998083221096895)<br />
  
 </p>
  
