@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/multi-periodical-9d55a2">
  
 <img src="https://img.shields.io/badge/migration-data-0bae57">
+ 
+<img src="https://img.shields.io/badge/trade-data-2e95a0">
+ 
+<img src="https://img.shields.io/badge/demographic-data-f1c432">
 
 </p>
 
