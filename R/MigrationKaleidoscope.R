@@ -137,7 +137,7 @@ MigrationKaleidoscope <- function(data_name, label_level,
       deg = deg+90
     }
 
-    number = (data_sunburst %>% filter (data_sunburst$color == i))$x
+    number = (data_sunburst %>% filter (data_sunburst$color == i,data_sunburst$year == year))$x
     round = round(number, digits=2)
 
     grid.text(round,
