@@ -1,9 +1,17 @@
 # Define function
 MigrationKaleidoscope <- function(data_name, label_level, 
                                   color_palette_original,
-                                  year,seed=NULL,error_tol=0.01,
+                                  year,seed=NULL,error_tol=error_tol,
                                   title=NULL,subtitle=NULL,
-                                  maxIteration=10000) {
+                                  maxIteration=maxIteration) {
+  
+  if(missing(error_tol)){
+    error_tol=0.01
+  }
+  
+  if(missing(maxIteration)){
+    maxIteration=10000
+  }
   
   library(WeightedTreemaps)
   library(circlize)
