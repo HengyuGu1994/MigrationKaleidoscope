@@ -1,9 +1,9 @@
 # Define function
 MigrationKaleidoscope <- function(data_name, label_level, 
                                   color_palette_original,
-                                  year,seed=NULL,error_tol=error_tol,
+                                  year,seed=NULL,error_tol=NULL,
                                   title=NULL,subtitle=NULL,
-                                  maxIteration=maxIteration) {
+                                  maxIteration=NULL) {
   
   if(missing(error_tol)){
     error_tol=0.01
