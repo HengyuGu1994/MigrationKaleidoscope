@@ -43,7 +43,7 @@ By attributing different colours to groups and differentiating **in-** and **out
 Note that the migration concept is also applicable to imports and exports in international trade. <br />
  
 <p float="left">
-  
+  <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeWorldBank.png" width=45% height=45% />
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotWorldBank.png" width=45% height=45% /> 
 </p>
 <p align="center"><i>Deep color for in-migration (imports), light color for out-migration (exports)</i><br />
