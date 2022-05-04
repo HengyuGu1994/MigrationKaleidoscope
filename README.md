@@ -193,7 +193,7 @@ MigrationKaleidoscope(data_name = "MigrationUIS.csv",
 
 Please cite using this form (APA for example):
 
-> Gu, H., & Xu, Z. (2022). Kaleidoscope visualisation of China’s internal migration, 1985–2020. *Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083221082916
+> Gu, H., & Xu, Z. (2022). Kaleidoscope visualisation of China’s internal migration, 1985–2020. *Environment and Planning B: Urban Analytics and City Science*, *49*(4), 1341–1344. https://doi.org/10.1177/23998083221082916
 
 ## Acknowledgements
 
