@@ -45,11 +45,10 @@ Note that the concepts of inflow and outflow in migration are also applicable to
 <p float="left">
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeWorldBank.png" width=45% height=45% />
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/StackedBarplotWorldBank.png" width=45% height=45% /> <br />
+ </p>
+ <p align="center"><i>Deep color for in-migration (imports), light color for out-migration (exports)</i><br />
  
 As well as in the gender composition of inbound international mobile students.<br />
- 
-</p>
-<p align="center"><i>Deep color for in-migration (imports), light color for out-migration (exports)</i><br />
 
 <p float="left">
   <img src="https://github.com/HengyuGu1994/MigrationKaleidoscope/blob/main/MigrationKaleidoscopeUIS.png" width=45% height=45% />
